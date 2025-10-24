@@ -3,14 +3,14 @@
 
 ---
 
-## 🎯 Objectif du projet
+## Objectif du projet
 
 Ce projet a pour but de construire un **mini-cluster Kubernetes local**, configuré entièrement à la main, afin de simuler un environnement HPC (High Performance Computing) sur un poste personnel.  
 L’objectif principal est de démontrer la compréhension et la maîtrise des concepts fondamentaux de l’orchestration de conteneurs, du réseau distribué et du stockage partagé, dans une logique de mise en place d’un environnement d’exécution pour des workloads IA.
 
 ---
 
-## 🧱 Architecture du cluster
+## Architecture du cluster
 
 L’infrastructure est composée de trois machines virtuelles Ubuntu 22.04 :
 
@@ -29,7 +29,7 @@ L’ensemble repose sur les composants suivants :
 
 ---
 
-## ⚙️ Processus de mise en place
+## Processus de mise en place
 
 Le déploiement a été réalisé entièrement manuellement, étape par étape :
 
@@ -45,7 +45,7 @@ Le déploiement a été réalisé entièrement manuellement, étape par étape :
 
 ---
 
-## 📊 Résultats obtenus
+## Résultats obtenus
 
 À la fin du déploiement :
 
@@ -58,7 +58,7 @@ Ces résultats démontrent la capacité à configurer et faire fonctionner un en
 
 ---
 
-## 🔍 Aspects techniques maîtrisés
+## Aspects techniques maîtrisés
 
 - Installation manuelle complète de Kubernetes via `kubeadm`
 - Configuration du runtime **containerd** avec `SystemdCgroup`
@@ -71,7 +71,7 @@ Ces résultats démontrent la capacité à configurer et faire fonctionner un en
 
 ---
 
-## 🧠 Enseignements clés
+## Enseignements clés
 
 Ce projet m’a permis de renforcer plusieurs compétences essentielles :
 
@@ -83,7 +83,7 @@ Ce projet m’a permis de renforcer plusieurs compétences essentielles :
 
 ---
 
-## 🚀 Perspectives d’évolution
+## Perspectives d’évolution
 
 Ce mini-cluster servira de socle à plusieurs extensions :
 
