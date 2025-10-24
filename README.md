@@ -62,9 +62,4 @@ Ce mini-cluster servira de base à mes prochains projets :
 
 ---
 
-📸 *Screenshots disponibles sur le dépôt GitHub*  
-🔗 [Lien GitHub du projet](https://github.com/...) *(à compléter quand tu l’auras publié)*
-
----
-
 💡 **Ce projet prouve que je sais construire un cluster Kubernetes from scratch, comprendre sa logique interne, et l’adapter à des besoins IA–HPC concrets.**
